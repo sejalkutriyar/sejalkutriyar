@@ -1,10 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sejal+Kumari;Full+Stack+Developer;Backend+Engineering+Enthusiast;React+Native+Developer;AI+%2F+ML+Learner" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Hey there, I'm Sejal Kumari</h1>
 
-<h3 align="center">
-  💻 Full Stack Developer &nbsp;•&nbsp; ⚙️ Backend Enthusiast &nbsp;•&nbsp; 📱 React Native Developer &nbsp;•&nbsp; 🤖 AI/ML Learner
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineering+Enthusiast;React+Native+Developer;AI+%2F+ML+Learner;Java+Developer+%E2%98%95;DSA+Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <em>Building scalable web, mobile and AI-powered applications while continuously learning backend systems, cloud technologies and software architecture.</em>

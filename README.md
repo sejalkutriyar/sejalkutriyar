@@ -145,7 +145,19 @@
 ## 🧠 DSA & Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sejal_kutriyar?theme=dark&font=Fira%20Code&ext=contest" />
+  <a href="https://leetcode.com/u/sejal_kutriyar/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/sejal_kutriyar?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/sejaleuia" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/dandy_pool_38" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-dandy__pool__38-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
 </p>
 
 | Platform | Stat |
@@ -202,8 +214,11 @@ AWS Cloud              ███░░░░░░░  30%
   <a href="https://leetcode.com/u/sejal_kutriyar/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/sejalkutriyar/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/sejaleuia" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/dandy_pool_38" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   <a href="mailto:seju020322@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />

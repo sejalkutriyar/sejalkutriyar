@@ -40,50 +40,17 @@
 
 ## 🚀 What I Build
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-**💻 Full Stack Development**
-- End-to-end Web Applications
-- REST API Design & Development
-- Authentication & Authorization (JWT)
-- Responsive & Interactive UI
-- Database Design & Optimization
+| 💻 Full Stack Dev | ⚙️ Backend Engineering | 📱 Mobile Dev | 🤖 AI / ML |
+|:---:|:---:|:---:|:---:|
+| Web Apps | Node.js + Express APIs | React Native & Expo | Python & ML Basics |
+| REST APIs | MongoDB & Mongoose | Offline Storage | AI App Integrations |
+| JWT Auth | WebSockets & Real-time | Push Notifications | LLM Exploration |
+| Responsive UI | Cloudinary Uploads | Cross-platform UI | Learning Deep Learning |
+| DB Design | Clean Architecture | AsyncStorage | OpenAI API |
 
-</td>
-<td valign="top" width="50%">
-
-**⚙️ Backend Engineering**
-- Scalable Node.js + Express APIs
-- MongoDB & Mongoose ODM
-- File Uploads with Cloudinary
-- WebSockets & Real-time Features
-- Clean Architecture Principles
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**📱 Mobile Development**
-- React Native & Expo Apps
-- Offline Storage & AsyncStorage
-- Push Notifications
-- Cross-platform Responsive UI
-
-</td>
-<td valign="top" width="50%">
-
-**🤖 AI / Machine Learning**
-- Python & ML Fundamentals
-- AI-powered App Integrations
-- LLM & OpenAI API Exploration
-- Currently Learning Deep Learning
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -158,8 +125,10 @@
   </a>
 </p>
 
+<div align="center">
+
 | Platform | Stat |
-|----------|------|
+|:--------:|:----:|
 | 🟢 Easy | 261 solved |
 | 🟡 Medium | 402 solved ⭐ |
 | 🔴 Hard | 119 solved |
@@ -167,6 +136,8 @@
 | 🔥 Max Streak | 160 Days |
 | 🌱 Active Days | 361 |
 | 🏅 Badges | 23 |
+
+</div>
 
 ---
 

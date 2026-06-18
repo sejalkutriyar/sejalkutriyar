@@ -118,15 +118,16 @@
 </td>
 <td align="center" width="45%">
 
-| Platform | Stat |
-|:--------:|:----:|
-| 🟢 Easy | 261 solved |
-| 🟡 Medium | 402 solved ⭐ |
-| 🔴 Hard | 119 solved |
-| 🏆 Contest Rating | 1543 — Top 33.67% |
-| 🔥 Max Streak | 160 Days |
-| 🌱 Active Days | 361 |
-| 🏅 Badges | 23 |
+<table>
+<tr><th>Platform</th><th>Stat</th></tr>
+<tr><td>🟢 Easy</td><td><b>261 solved</b></td></tr>
+<tr><td>🟡 Medium</td><td><b>402 solved ⭐</b></td></tr>
+<tr><td>🔴 Hard</td><td><b>119 solved</b></td></tr>
+<tr><td>🏆 Contest Rating</td><td><b>1543 — Top 33.67%</b></td></tr>
+<tr><td>🔥 Max Streak</td><td><b>160 Days</b></td></tr>
+<tr><td>🌱 Active Days</td><td><b>361</b></td></tr>
+<tr><td>🏅 Badges</td><td><b>23</b></td></tr>
+</table>
 
 <br/>
 <a href="https://www.geeksforgeeks.org/profile/sejaleuia" target="_blank">
@@ -163,12 +164,12 @@
 ## 🌱 Current Learning Roadmap
 
 ```
-Backend Engineering    ████████░░  80%
-System Design          ██████░░░░  60%
-Machine Learning       █████░░░░░  50%
-Redis & Caching        ████░░░░░░  40%
-Docker & DevOps        ████░░░░░░  40%
-AWS Cloud              ███░░░░░░░  30%
+Backend Engineering    █████████░  85%
+System Design          ███████░░░  75%
+Machine Learning       ███████░░░  75%
+Redis & Caching        █████░░░░░  55%
+Docker & DevOps        █████░░░░░  50%
+AWS Cloud              █████░░░░░  50%
 ```
 
 ---

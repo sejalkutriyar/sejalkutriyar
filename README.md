@@ -17,7 +17,7 @@
   <a href="mailto:seju020322@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/sejalkutriyar" target="_blank">
+  <a href="https://leetcode.com/u/sejal_kutriyar/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://github.com/sejalkutriyar" target="_blank">
@@ -142,25 +142,10 @@
 
 ---
 
-## 🏗️ Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 📰 **NewsDeck Reader Pro** | Offline news reading app with search, categories, text-to-speech & bookmarks | React Native, Expo |
-| 🏸 **Badminton Court Booking** | Full booking system with pricing, admin dashboard, inventory & atomic transactions | MERN Stack |
-| 🍽️ **Restaurant Management System** | Complete restaurant platform with JWT auth, delivery & dashboard management | MERN Stack |
-| 💊 **MediRemind+** | Medicine reminder app with inventory tracking, charts & push notifications | React Native |
-| 🔌 **Smart Charger Finder** | IoT-based smart charger finder using BLE communication | ESP32, React Native |
-| 🌐 **Portfolio Website** | Personal portfolio with smooth animations and modern design | React, TypeScript, Tailwind, Framer Motion |
-
----
-
 ## 🧠 DSA & Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/sejalkutriyar" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-782+%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/sejal_kutriyar?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
 | Platform | Stat |
@@ -205,25 +190,26 @@ AWS Cloud              ███░░░░░░░  30%
 
 ---
 
+## 🤝 Connect With Me
+
 <p align="center">
-  <em>"Passionate about building impactful software, exploring AI, and continuously improving through real-world development."</em>
+  <a href="https://www.linkedin.com/in/sejalkutriyar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sejalkutriyar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/sejal_kutriyar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/sejalkutriyar/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="mailto:seju020322@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sejalkutriyar&color=F472B6&style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=white&fontAlignY=70" />
 </p>
-
-<!--
-**sejalkutriyar/sejalkutriyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
